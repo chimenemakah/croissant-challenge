@@ -7,7 +7,7 @@ p {
   text-align: center;
 }
 
-.croissant-photo {
+.croissant {
   max-width: 100%;
   border-radius: 30px;
   display: block;
@@ -21,4 +21,12 @@ footer {
 footer a {
   margin: 0 10px;
   color: rgb(250, 166, 10);
+}
+span {
+  display: block;
+  margin-left: 500px;
+  margin-top: 500px;
+  text-decoration: double;
+  font-size: x-large;
+  font-weight: 800;
 }
